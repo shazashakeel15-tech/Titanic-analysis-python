@@ -1,10 +1,10 @@
 # Titanic-analysis-python
 titanic-analysis-python/
 
-│
-├── titanic_analysis.ipynb      # Main analysis notebook
 
-├── titanic.csv                 # Dataset used in the project
+├──Titanic_analysis.ipynb      # Main analysis notebook
+
+├──Titanic.csv                 # Dataset used in the project
 
 ├── README.md                   # Project documentation
 
