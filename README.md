@@ -51,3 +51,21 @@ How did age and fare influence survival rates?
 💰 Higher fare values were associated with increased survival odds.
 🚢 Most passengers boarded from Southampton port.
 
+🚀 How to Run the Project
+
+Clone the repository:
+https://github.com/shazashakeel15-tech/Titanic-analysis-python/blob/main/Titanic.ipynb
+Open titanic_analysis.ipynb in Jupyter Notebook or Google Colab.
+Run all cells to reproduce the analysis.
+Or open directly in Colab:
+
+🧾 Dataset Information
+
+The dataset contains details of passengers aboard the Titanic, such as:
+Passenger ID, Name, Age, Sex, Ticket, Fare, Cabin, Embarked, and Survival status.
+Source: Kaggle Titanic Dataset
+
+👩‍💻 Author
+
+Shaza Shakeel
+📍 Aspiring Data Analyst | Python • Power BI • SQL • Excel
