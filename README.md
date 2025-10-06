@@ -1,8 +1,11 @@
 # Titanic-analysis-python
 titanic-analysis-python/
+
 │
 ├── titanic_analysis.ipynb      # Main analysis notebook
+
 ├── titanic.csv                 # Dataset used in the project
+
 ├── README.md                   # Project documentation
 
 Data analysis project using Python (Pandas, Matplotlib, Seaborn)
