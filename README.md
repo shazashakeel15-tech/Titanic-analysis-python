@@ -17,6 +17,7 @@ Analyze the relationship between passenger features and survival outcome.
 Perform data cleaning and handle missing values.
 Use visualizations to identify key insights.
 Demonstrate data analysis skills using Python tools.
+
 🧰 Tools & Libraries Used
 
 Tool	Purpose
@@ -26,12 +27,14 @@ NumPy	Numerical operations
 Matplotlib	Static data visualization
 Seaborn	Advanced data visualization
 Google Colab 
+
 🧼 Data Cleaning Steps
 
 Loaded dataset using Pandas.
 Checked for missing values and filled or dropped as needed.
 Converted categorical variables (e.g., Sex, Embarked) into readable formats.
 Removed unnecessary columns like Cabin due to excessive missing data.
+
 🔍 Exploratory Data Analysis (EDA)
 
 Performed analysis to answer key questions such as:
@@ -39,6 +42,7 @@ What percentage of passengers survived?
 Did gender affect survival?
 Did passenger class (Pclass) have an impact?
 How did age and fare influence survival rates?
+
 📈 Key Insights
 
 🚺 Female passengers had a much higher survival rate than males.
