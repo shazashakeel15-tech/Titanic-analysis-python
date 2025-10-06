@@ -72,3 +72,10 @@ Source: Kaggle Titanic Dataset
 
 Shaza Shakeel
 📍 Aspiring Data Analyst | Python • Power BI • SQL • Excel
+ https://github.com/shazashakeel15-tech
+ 
+⭐ Future Improvements
+
+Add predictive modeling using Logistic Regression.
+Create an interactive dashboard using Power BI or Streamlit.
+Automate data cleaning with functions.
